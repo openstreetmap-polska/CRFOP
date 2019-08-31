@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-111778' action='modify' lat='53.1257353101' lon='22.97700365604'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96279' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002013.914' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002013.914' />
+  </node>
+  <node id='-111779' action='modify' lat='53.15434507299' lon='23.54618212952'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96390' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002042.165' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002042.165' />
+  </node>
+  <node id='-111780' action='modify' lat='53.15370389503' lon='23.54688395675'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96391' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002042.165' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002042.165' />
+  </node>
+  <node id='-111781' action='modify' lat='52.99728706885' lon='23.65493583707'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96458' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002073.141' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002073.141' />
+  </node>
+  <node id='-111782' action='modify' lat='53.01964065255' lon='23.46356471992'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96546' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002073.824' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002073.824' />
+  </node>
+  <node id='-111783' action='modify' lat='53.18162911376' lon='22.72839919955'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96651' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002123.47' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002123.47' />
+  </node>
+  <node id='-111784' action='modify' lat='53.15493243597' lon='22.78973768304'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96652' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002123.48' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002123.48' />
+  </node>
+  <node id='-111785' action='modify' lat='52.78190998691' lon='22.87978659204'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97051' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2003052.895' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2003052.895' />
+  </node>
+  <node id='-111786' action='modify' lat='52.88210737432' lon='22.95276027119'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97055' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2003082.57' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2003082.57' />
+  </node>
+  <node id='-111787' action='modify' lat='52.88259992085' lon='22.94588412074'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97056' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2003082.58' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2003082.58' />
+  </node>
+  <node id='-111788' action='modify' lat='52.8826391514' lon='22.94586522709'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97057' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2003082.58' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2003082.58' />
+  </node>
+  <node id='-111789' action='modify' lat='52.69816931455' lon='23.88524935525'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97419' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005022.1055' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005022.1055' />
+  </node>
+  <node id='-111790' action='modify' lat='52.70267375516' lon='23.85089002653'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97420' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005022.1056' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005022.1056' />
+  </node>
+  <node id='-111791' action='modify' lat='52.70634582129' lon='23.84922734871'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97421' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005022.1057' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005022.1057' />
+  </node>
+  <node id='-111792' action='modify' lat='52.6945248727' lon='23.82808886717'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='97424' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005022.1061' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005022.1061' />
+  </node>
+  <node id='-111793' action='modify' lat='52.64233002828' lon='23.42532503464'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98083' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005052.273' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005052.273' />
+  </node>
+  <node id='-111794' action='modify' lat='52.64221170386' lon='23.42511999354'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98084' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005052.274' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005052.274' />
+  </node>
+  <node id='-111795' action='modify' lat='52.85828925119' lon='23.86542165957'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98749' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005092.882' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005092.882' />
+  </node>
+  <node id='-111796' action='modify' lat='52.79118576747' lon='23.90172008548'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98750' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005092.893' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005092.893' />
+  </node>
+  <node id='-111797' action='modify' lat='52.78577991594' lon='23.63430757602'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98751' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005092.894' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005092.894' />
+  </node>
+  <node id='-111798' action='modify' lat='52.83615689402' lon='23.89768853618'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98752' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2005092.910' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2005092.910' />
+  </node>
+  <node id='-111799' action='modify' lat='53.46238873733' lon='21.91334959287'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98757' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2006032.1721' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2006032.1721' />
+  </node>
+  <node id='-111800' action='modify' lat='53.35720946792' lon='22.06061030164'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98874' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2006053.1649' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2006053.1649' />
+  </node>
+  <node id='-111801' action='modify' lat='53.35690006122' lon='22.15876635393'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='98875' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2006053.2047' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2006053.2047' />
+  </node>
+  <node id='-111802' action='modify' lat='53.34450185317' lon='22.30062908603'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99577' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2007062.1689' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2007062.1689' />
+  </node>
+  <node id='-111803' action='modify' lat='53.34272488387' lon='22.29727147307'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99578' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2007062.1701' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2007062.1701' />
+  </node>
+  <node id='-111804' action='modify' lat='53.36489682017' lon='22.68998329329'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99787' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2008072.1763' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2008072.1763' />
+  </node>
+  <node id='-111805' action='modify' lat='53.99718996719' lon='23.36202006272'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99805' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2009022.1664' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2009022.1664' />
+  </node>
+  <node id='-111806' action='modify' lat='54.25804745613' lon='23.19128511115'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99870' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2009042.1767' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2009042.1767' />
+  </node>
+  <node id='-111807' action='modify' lat='54.23265998033' lon='23.31801995108'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99872' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2009042.1812' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2009042.1812' />
+  </node>
+  <node id='-111808' action='modify' lat='52.39501082452' lon='22.69992166803'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99913' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2010023.53' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2010023.53' />
+  </node>
+  <node id='-111809' action='modify' lat='52.56659763819' lon='22.9835412986'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='99914' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2010032.11' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2010032.11' />
+  </node>
+  <node id='-111810' action='modify' lat='52.37985394867' lon='23.00112757239'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100018' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2010052.147' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2010052.147' />
+  </node>
+  <node id='-111811' action='modify' lat='52.30547399156' lon='23.10049938611'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100021' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2010052.56' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2010052.56' />
+  </node>
+  <node id='-111812' action='modify' lat='52.47221533704' lon='22.83593783745'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100041' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2010092.51' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2010092.51' />
+  </node>
+  <node id='-111813' action='modify' lat='53.61733696999' lon='23.44868204117'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100046' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011013.4164' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011013.4164' />
+  </node>
+  <node id='-111814' action='modify' lat='53.44686497804' lon='23.12013051628'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100054' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011032.201' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011032.201' />
+  </node>
+  <node id='-111815' action='modify' lat='53.44741040962' lon='23.11478581962'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100055' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011032.202' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011032.202' />
+  </node>
+  <node id='-111816' action='modify' lat='53.16991424148' lon='23.79921541313'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100081' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011043.4168' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011043.4168' />
+  </node>
+  <node id='-111817' action='modify' lat='53.56359592143' lon='23.51868605099'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100216' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.166' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.166' />
+  </node>
+  <node id='-111818' action='modify' lat='53.56266048273' lon='23.51692230662'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100217' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.167' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.167' />
+  </node>
+  <node id='-111819' action='modify' lat='53.56701838607' lon='23.54614860788'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100218' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.168' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.168' />
+  </node>
+  <node id='-111820' action='modify' lat='53.56702680251' lon='23.54618519076'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100219' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.168' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.168' />
+  </node>
+  <node id='-111821' action='modify' lat='53.52516060425' lon='23.44507178225'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100220' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.171' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.171' />
+  </node>
+  <node id='-111822' action='modify' lat='53.52185726725' lon='23.34041620059'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100221' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.172' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.172' />
+  </node>
+  <node id='-111823' action='modify' lat='53.50726971623' lon='23.45654313743'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100222' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.173' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.173' />
+  </node>
+  <node id='-111824' action='modify' lat='53.48389381221' lon='23.45512173265'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100223' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.174' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.174' />
+  </node>
+  <node id='-111825' action='modify' lat='53.55130651235' lon='23.40663196755'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100224' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.239' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.239' />
+  </node>
+  <node id='-111826' action='modify' lat='53.5142874083' lon='23.51166262918'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100225' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.4160' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.4160' />
+  </node>
+  <node id='-111827' action='modify' lat='53.48091698621' lon='23.45186116428'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100226' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.4162' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.4162' />
+  </node>
+  <node id='-111828' action='modify' lat='53.54494713151' lon='23.37827508767'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100227' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011072.4167' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011072.4167' />
+  </node>
+  <node id='-111829' action='modify' lat='53.44039218596' lon='23.5540003783'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100228' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.13' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.13' />
+  </node>
+  <node id='-111830' action='modify' lat='53.44042919126' lon='23.55401172917'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100229' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.13' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.13' />
+  </node>
+  <node id='-111831' action='modify' lat='53.44040983719' lon='23.55398357933'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100230' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.13' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.13' />
+  </node>
+  <node id='-111832' action='modify' lat='53.44039401471' lon='23.55402318351'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100231' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.13' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.13' />
+  </node>
+  <node id='-111833' action='modify' lat='53.45772370323' lon='23.50115283851'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100234' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.4169' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.4169' />
+  </node>
+  <node id='-111834' action='modify' lat='53.45812668348' lon='23.50285526958'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100235' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011083.4170' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011083.4170' />
+  </node>
+  <node id='-111835' action='modify' lat='53.62373263658' lon='23.19415557883'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100241' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011093.203' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011093.203' />
+  </node>
+  <node id='-111836' action='modify' lat='53.57088456207' lon='23.19077386868'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100242' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2011093.49' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2011093.49' />
+  </node>
+  <node id='-111837' action='modify' lat='54.19736677657' lon='22.62726435787'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100299' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012022.1690' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012022.1690' />
+  </node>
+  <node id='-111838' action='modify' lat='54.19839721209' lon='22.62741547275'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100300' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012022.1702' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012022.1702' />
+  </node>
+  <node id='-111839' action='modify' lat='54.22535330632' lon='22.82384575663'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100309' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012032.1750' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012032.1750' />
+  </node>
+  <node id='-111840' action='modify' lat='54.23490083919' lon='22.88723867632'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100311' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012032.1910' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012032.1910' />
+  </node>
+  <node id='-111841' action='modify' lat='54.22876044186' lon='22.87030804417'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100315' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012032.1945' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012032.1945' />
+  </node>
+  <node id='-111842' action='modify' lat='54.26459751776' lon='22.92773523357'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100317' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012032.2041' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012032.2041' />
+  </node>
+  <node id='-111843' action='modify' lat='54.23965687905' lon='22.76099186658'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100323' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.1828' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.1828' />
+  </node>
+  <node id='-111844' action='modify' lat='54.2040551287' lon='22.75309589654'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100324' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.1836' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.1836' />
+  </node>
+  <node id='-111845' action='modify' lat='54.26348437996' lon='22.80378783122'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100325' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.1941' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.1941' />
+  </node>
+  <node id='-111846' action='modify' lat='54.27586607147' lon='22.64908190769'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100327' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.2039' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.2039' />
+  </node>
+  <node id='-111847' action='modify' lat='54.24475016993' lon='22.78726791234'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100328' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.2068' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.2068' />
+  </node>
+  <node id='-111848' action='modify' lat='54.2486369385' lon='22.79571944318'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100329' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.2069' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.2069' />
+  </node>
+  <node id='-111849' action='modify' lat='54.24095808142' lon='22.73445548109'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100330' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012042.2071' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012042.2071' />
+  </node>
+  <node id='-111850' action='modify' lat='53.95298043274' lon='22.8584216241'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100386' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012052.2066' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012052.2066' />
+  </node>
+  <node id='-111851' action='modify' lat='54.37252060122' lon='22.97661191291'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100387' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012062.1713' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012062.1713' />
+  </node>
+  <node id='-111852' action='modify' lat='54.340541392' lon='23.02911778531'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100535' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012062.2031' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012062.2031' />
+  </node>
+  <node id='-111853' action='modify' lat='54.30709293412' lon='22.95825974748'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100536' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012062.2050' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012062.2050' />
+  </node>
+  <node id='-111854' action='modify' lat='54.28397799915' lon='22.90287308083'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100538' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012062.2075' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012062.2075' />
+  </node>
+  <node id='-111855' action='modify' lat='54.13538609925' lon='22.88580529893'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100547' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012072.1882' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012072.1882' />
+  </node>
+  <node id='-111856' action='modify' lat='54.27160654471' lon='23.10335926953'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100556' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.15' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.15' />
+  </node>
+  <node id='-111857' action='modify' lat='54.27432037471' lon='23.08317390804'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100557' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.16' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.16' />
+  </node>
+  <node id='-111858' action='modify' lat='54.28123720261' lon='23.0925729592'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100558' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.18' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.18' />
+  </node>
+  <node id='-111859' action='modify' lat='54.27159223232' lon='23.10338321073'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100559' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.397' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.397' />
+  </node>
+  <node id='-111860' action='modify' lat='54.28946785428' lon='23.06598007214'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100560' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.50' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.50' />
+  </node>
+  <node id='-111861' action='modify' lat='54.27029744461' lon='23.10346882434'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100561' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012082.6023' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012082.6023' />
+  </node>
+  <node id='-111862' action='modify' lat='54.37119143639' lon='22.94555189971'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100562' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012092.1742' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012092.1742' />
+  </node>
+  <node id='-111863' action='modify' lat='54.26727855714' lon='22.82302474605'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100573' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012092.1944' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012092.1944' />
+  </node>
+  <node id='-111864' action='modify' lat='54.3301461046' lon='22.79109560641'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='100601' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2012092.2051' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2012092.2051' />
+  </node>
+  <node id='-111865' action='modify' lat='54.19773254762' lon='23.39549350213'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='203667' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2009052.7047' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2009052.7047' />
+  </node>
+  <node id='-111866' action='modify' lat='53.06501529664' lon='23.05111000608'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='207834' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002112.7053' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002112.7053' />
+  </node>
+  <node id='-111867' action='modify' lat='53.25767076653' lon='23.50253899401'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='209332' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002093.7059' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002093.7059' />
+  </node>
+  <node id='-111868' action='modify' lat='53.251054822' lon='23.48326587474'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='209333' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002093.7060' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002093.7060' />
+  </node>
+</osm>

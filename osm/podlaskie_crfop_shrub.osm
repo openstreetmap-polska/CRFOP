@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-111872' action='modify' lat='53.22260340909' lon='22.69761601187'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='shrub' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='96650' />
+    <tag k='ref:inspir' v='PL.ZIPOP.1393.PP.2002123.46' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.2002123.46' />
+  </node>
+</osm>
