@@ -5,4 +5,5 @@ Projekt dotyczy integracji danych Centralnego Rejestru Form Ochrony Przyrody z b
 Folder OSM - zawiera gotowe pliki do właczenia do bazy OpenStreetMap
 
 **Lista zmian**
-  1.2019-09-01 zmiana struktury katalogów podział na województwa
+
+  1. 2019-09-01 zmiana struktury katalogów podział na województwa
