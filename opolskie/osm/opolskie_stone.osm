@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-106536' action='modify' lat='50.78932404358' lon='17.5520469166'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='87943' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1601043.13' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1601043.13' />
+  </node>
+  <node id='-106538' action='modify' lat='50.79448649602' lon='17.55596156309'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='87944' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1601043.14' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1601043.14' />
+  </node>
+  <node id='-106540' action='modify' lat='50.32349600368' lon='18.24866593079'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='89800' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1603011.209' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1603011.209' />
+  </node>
+  <node id='-106542' action='modify' lat='50.37845909412' lon='18.3207711835'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='89866' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1603011.94' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1603011.94' />
+  </node>
+  <node id='-106544' action='modify' lat='50.53989451582' lon='18.07560136369'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='90175' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1605013.60' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1605013.60' />
+  </node>
+  <node id='-106546' action='modify' lat='50.54606817923' lon='17.56992099935'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='90843' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1607042.230' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1607042.230' />
+  </node>
+  <node id='-106548' action='modify' lat='50.80722819193' lon='18.54993202668'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='90935' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1608033.150' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1608033.150' />
+  </node>
+  <node id='-106550' action='modify' lat='50.83391802796' lon='18.39233598289'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='90945' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1608033.659' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1608033.659' />
+  </node>
+  <node id='-106552' action='modify' lat='50.64137055543' lon='17.62243614188'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91081' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609073.271' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609073.271' />
+  </node>
+  <node id='-106554' action='modify' lat='50.64138362655' lon='17.62242316841'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91082' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609073.271' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609073.271' />
+  </node>
+  <node id='-106556' action='modify' lat='50.61658297002' lon='17.59558094085'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91083' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609073.27' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609073.27' />
+  </node>
+  <node id='-106558' action='modify' lat='50.82482314178' lon='17.74062478567'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91130' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609092.224' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609092.224' />
+  </node>
+  <node id='-106560' action='modify' lat='50.71226583378' lon='18.09950877226'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91478' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609132.103' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609132.103' />
+  </node>
+  <node id='-106562' action='modify' lat='50.45223765027' lon='18.1688428077'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='natural' v='stone' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='92087' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1611043.141' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1611043.141' />
+  </node>
+</osm>

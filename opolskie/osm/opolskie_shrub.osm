@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-106516' action='modify' lat='50.61595004024' lon='17.60432805704'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='leaf_type' v='needleleaved' />
+    <tag k='natural' v='shrub' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='91091' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1609073.503' />
+    <tag k='species' v='Juniperus virginiana' />
+    <tag k='species:pl' v='Jałowiec wirginijski' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1609073.503' />
+  </node>
+  <node id='-106518' action='modify' lat='50.5927650142' lon='17.12143914981'>
+    <tag k='denotation' v='natural_monument' />
+    <tag k='leaf_type' v='needleleaved' />
+    <tag k='natural' v='shrub' />
+    <tag k='protected' v='yes' />
+    <tag k='ref:gid' v='90699' />
+    <tag k='ref:inspire' v='PL.ZIPOP.1393.PP.1607022.179' />
+    <tag k='species' v='Juniperus communis' />
+    <tag k='species:pl' v='Jałowiec pospolity' />
+    <tag k='url:crfop' v='http://crfop.gdos.gov.pl/CRFOP/widok/viewpomnikprzyrody.jsf?fop=PL.ZIPOP.1393.PP.1607022.179' />
+  </node>
+</osm>
