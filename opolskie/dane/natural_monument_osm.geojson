@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-09-03T16:04:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309055687",
+        "denotation": "natural_monument",
+        "height": "10",
+        "historic": "yes",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "needleleaved",
+        "name": "Aleja cisowa",
+        "natural": "tree_row",
+        "species": "Taxus baccata",
+        "wikidata": "Q11823674",
+        "wikipedia": "pl:Pomniki przyrody w powiecie kluczborskim"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.2063404,
+            50.9786053
+          ],
+          [
+            18.2060744,
+            50.9778594
+          ],
+          [
+            18.2058569,
+            50.9772496
+          ]
+        ]
+      },
+      "id": "way/309055687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2256058282",
+        "denotation": "natural_monument",
+        "monument": "yes",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3262644,
+          50.4707601
+        ]
+      },
+      "id": "node/2256058282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143666389",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Olsza czarna",
+        "name:botanical": "Alnus glutinosa",
+        "natural": "tree",
+        "note": "Olsza czarna w Kluczborku, obwód 390 cm, wysokość 30 m, wiek ok. 190 lat, najstarszy okaz w Polsce (koło dworca kolejowego)",
+        "wikidata": "Q11823674",
+        "wikipedia": "pl:Pomniki przyrody w powiecie kluczborskim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2011741,
+          50.9720889
+        ]
+      },
+      "id": "node/3143666389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3609211252",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name:botanical": "Quercus robur",
+        "natural": "tree",
+        "note": "Dąb szypułkowy w Kluczborku, obwód 440 cm, wysokość 23 m, wiek 320 lat",
+        "species:pl": "Dąb szypułkowy",
+        "wikidata": "Q11823674",
+        "wikipedia": "pl:Pomniki przyrody w powiecie kluczborskim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2130317,
+          50.9728087
+        ]
+      },
+      "id": "node/3609211252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4080924820",
+        "denotation": "natural_monument",
+        "natural": "tree",
+        "species": "Quercus robur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.918483,
+          50.6662725
+        ]
+      },
+      "id": "node/4080924820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4324147091",
+        "denotation": "natural_monument",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1337846,
+          50.4487979
+        ]
+      },
+      "id": "node/4324147091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413284026",
+        "denotation": "natural_monument",
+        "leaf_type": "broadleaved",
+        "monument": "yes",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2983991,
+          50.4319503
+        ]
+      },
+      "id": "node/4413284026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548105749",
+        "denotation": "natural_monument",
+        "name": "Dąb Pücklera",
+        "natural": "tree",
+        "protected": "yes",
+        "species": "Quercus robur",
+        "species:pl": "Dąb szypułkowy",
+        "wikidata": "Q24650598",
+        "wikipedia": "pl:Dąb Pücklera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6142896,
+          50.6813093
+        ]
+      },
+      "id": "node/4548105749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5870805978",
+        "denotation": "natural_monument",
+        "genus": "Quercus robur",
+        "genus:de": "Stieleiche",
+        "genus:en": "Quercus robur",
+        "genus:pl": "Dąb szypułkowy",
+        "leaf_type": "broadleaved",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2485307,
+          50.6709876
+        ]
+      },
+      "id": "node/5870805978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028239724",
+        "circumference": "7",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "protected": "yes",
+        "species": "Platanus acerifolia",
+        "species:pl": "Platan klonolistny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9236517,
+          50.6669689
+        ]
+      },
+      "id": "node/6028239724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6346892450",
+        "denotation": "natural_monument",
+        "leaf_type": "needleleaved",
+        "name": "Sosna Wejmutka",
+        "natural": "tree",
+        "species:pl": "Sosna wejmutka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8452428,
+          50.8945496
+        ]
+      },
+      "id": "node/6346892450"
+    }
+  ]
+}
