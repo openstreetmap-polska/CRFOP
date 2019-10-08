@@ -18,5 +18,6 @@ Projekt dotyczy integracji danych Centralnego Rejestru Form Ochrony Przyrody z b
 
 **Postęp w przetwarzaniu danych**
 
-  
+![](img/zestawienie%20CRFOP_2.png)
+
   Dokumentacja importu na OSM Wiki jest na https://wiki.openstreetmap.org/wiki/Integracja_danych_CRFOP
