@@ -9,7 +9,7 @@ wyszukiwanie pomników przyrody w zadanym województwie
   // query part for: “natural=tree”
   node["denotation"="natural_monument"]["protected"="yes"](area.searchArea);
   way["denotation"="natural_monument"]["protected"="yes"](area.searchArea);
-  way["denotation"="natural_monument"]["protected"="yes"](area.searchArea);
+  rel["denotation"="natural_monument"]["protected"="yes"](area.searchArea);
 );
 // print results
 out body;
