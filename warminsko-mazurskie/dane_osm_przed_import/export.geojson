@@ -1,0 +1,674 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-11-07T10:23:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301585121",
+        "denotation": "natural_monument",
+        "natural": "tree_row",
+        "@timestamp": "2014-09-02T22:01:18Z",
+        "@version": 1,
+        "@changeset": 25193352,
+        "@user": "WiktorN",
+        "@uid": 1410361
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.6518639,
+            53.7430112
+          ],
+          [
+            19.6518941,
+            53.7431603
+          ],
+          [
+            19.6518639,
+            53.743666
+          ],
+          [
+            19.6517993,
+            53.7444086
+          ],
+          [
+            19.6517649,
+            53.7449486
+          ],
+          [
+            19.6516421,
+            53.7461663
+          ]
+        ]
+      },
+      "id": "way/301585121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301585122",
+        "denotation": "natural_monument",
+        "natural": "tree_row",
+        "@timestamp": "2014-09-02T22:01:18Z",
+        "@version": 1,
+        "@changeset": 25193352,
+        "@user": "WiktorN",
+        "@uid": 1410361
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.6519301,
+            53.7428746
+          ],
+          [
+            19.6520313,
+            53.7430103
+          ],
+          [
+            19.6520281,
+            53.743153
+          ],
+          [
+            19.6520292,
+            53.7435988
+          ],
+          [
+            19.6519979,
+            53.7441981
+          ],
+          [
+            19.6519393,
+            53.7452047
+          ],
+          [
+            19.6518403,
+            53.7461612
+          ]
+        ]
+      },
+      "id": "way/301585122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301707598",
+        "denotation": "natural_monument",
+        "natural": "tree_row",
+        "@timestamp": "2014-09-03T20:19:02Z",
+        "@version": 1,
+        "@changeset": 25213944,
+        "@user": "WiktorN",
+        "@uid": 1410361
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.6026661,
+            53.8732193
+          ],
+          [
+            19.6083703,
+            53.8722033
+          ]
+        ]
+      },
+      "id": "way/301707598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301707600",
+        "denotation": "natural_monument",
+        "natural": "tree_row",
+        "@timestamp": "2014-09-03T20:19:02Z",
+        "@version": 1,
+        "@changeset": 25213944,
+        "@user": "WiktorN",
+        "@uid": 1410361
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.6026241,
+            53.8731468
+          ],
+          [
+            19.608236,
+            53.8720846
+          ]
+        ]
+      },
+      "id": "way/301707600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/853622407",
+        "comment": "\"Zakochana Para\", Dąb szypułkowy(Quercus robur L.) wiek ok. 160 lat, obwód pnia ok. 200cm, wysokość 18m, Sosna zwyczajna(Pinus silvestris L.) wiek ok. 250 lat, obwód pnia ok.275cm, wysokość 18m (Urząd Wojewódzki w Olsztynie)",
+        "denotation": "natural_monument",
+        "name": "Pomnik przyrody \"Zakochana Para\"",
+        "name:de": "Naturdenkmal - \"verliebtes Paar\"",
+        "name:en": "Loving couple",
+        "name:pl": "Pomnik przyrody \"Zakochana Para\"",
+        "natural": "tree",
+        "protected": "yes",
+        "tourism": "attraction",
+        "@timestamp": "2019-08-09T12:34:15Z",
+        "@version": 8,
+        "@changeset": 73191713,
+        "@user": "Arnebius",
+        "@uid": 502270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4174378,
+          53.689252
+        ]
+      },
+      "id": "node/853622407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819647963",
+        "denotation": "natural_monument",
+        "genus": "Pinus",
+        "genus:pl": "Sosna",
+        "natural": "tree",
+        "@timestamp": "2014-06-12T23:37:44Z",
+        "@version": 3,
+        "@changeset": 22899112,
+        "@user": "forestus",
+        "@uid": 537071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9232279,
+          53.3648027
+        ]
+      },
+      "id": "node/1819647963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832658614",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "genus:en": "Oak",
+        "genus:pl": "Dąb",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2014-08-14T13:38:32Z",
+        "@version": 2,
+        "@changeset": 24745732,
+        "@user": "Chabior",
+        "@uid": 693908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9101932,
+          53.3624037
+        ]
+      },
+      "id": "node/1832658614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832658615",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "genus:en": "Oak",
+        "genus:pl": "Dąb",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2014-08-14T13:38:32Z",
+        "@version": 2,
+        "@changeset": 24745732,
+        "@user": "Chabior",
+        "@uid": 693908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9112482,
+          53.3626098
+        ]
+      },
+      "id": "node/1832658615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832658616",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "genus:en": "Oak",
+        "genus:pl": "Dąb",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2014-08-14T13:38:32Z",
+        "@version": 3,
+        "@changeset": 24745732,
+        "@user": "Chabior",
+        "@uid": 693908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9142424,
+          53.3646106
+        ]
+      },
+      "id": "node/1832658616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832658617",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "genus:en": "Oak",
+        "genus:pl": "Dąb",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2014-08-14T13:38:32Z",
+        "@version": 2,
+        "@changeset": 24745732,
+        "@user": "Chabior",
+        "@uid": 693908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9148261,
+          53.3643867
+        ]
+      },
+      "id": "node/1832658617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395403867",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Dąb Krutyński",
+        "name:de": "Krutyner Eiche",
+        "name:en": "Oak of Krutyń",
+        "name:pl": "Dab Krutynski",
+        "natural": "tree",
+        "protected": "yes",
+        "tourism": "attraction",
+        "@timestamp": "2019-08-09T12:34:15Z",
+        "@version": 5,
+        "@changeset": 73191713,
+        "@user": "Arnebius",
+        "@uid": 502270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4227133,
+          53.6885073
+        ]
+      },
+      "id": "node/2395403867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2404142589",
+        "denotation": "natural_monument",
+        "genus": "dąb",
+        "height": "25 m",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Dąb Bażyńskiego",
+        "name:en": "Bażyński Oak",
+        "natural": "tree",
+        "tourism": "attraction",
+        "type": "Dąb - pomnik przyrody",
+        "wikidata": "Q812618",
+        "wikipedia": "pl:Dąb Bażyńskiego",
+        "@timestamp": "2019-10-27T15:45:07Z",
+        "@version": 7,
+        "@changeset": 76269308,
+        "@user": "xych",
+        "@uid": 4840464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4874143,
+          54.2958265
+        ]
+      },
+      "id": "node/2404142589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3216263624",
+        "denotation": "natural_monument",
+        "genus": "Buk pospolity",
+        "height": "13",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Pomnik przyrody",
+        "natural": "tree",
+        "@timestamp": "2014-12-02T19:43:34Z",
+        "@version": 1,
+        "@changeset": 27186834,
+        "@user": "swieze_wiadomosci",
+        "@uid": 2134866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3926731,
+          54.1831714
+        ]
+      },
+      "id": "node/3216263624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790812051",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Lipa w Łutynowie",
+        "natural": "tree",
+        "@timestamp": "2015-10-17T22:21:39Z",
+        "@version": 1,
+        "@changeset": 34702520,
+        "@user": "Nacek",
+        "@uid": 2195776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3514803,
+          53.5511473
+        ]
+      },
+      "id": "node/3790812051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790812052",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Dąb Jarosław",
+        "natural": "tree",
+        "@timestamp": "2015-10-17T22:21:39Z",
+        "@version": 1,
+        "@changeset": 34702520,
+        "@user": "Nacek",
+        "@uid": 2195776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3584636,
+          53.54816
+        ]
+      },
+      "id": "node/3790812052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168464796",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "natural": "tree",
+        "species": "Quercus robur L.",
+        "species:pl": "dąb szypułkowy",
+        "tourism": "attraction",
+        "@timestamp": "2016-05-06T02:07:49Z",
+        "@version": 1,
+        "@changeset": 39133304,
+        "@user": "Okorzec",
+        "@uid": 2283510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5257059,
+          53.6312347
+        ]
+      },
+      "id": "node/4168464796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5661003637",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2018-06-08T09:38:10Z",
+        "@version": 3,
+        "@changeset": 59662878,
+        "@user": "bastek",
+        "@uid": 570112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4212289,
+          54.1575251
+        ]
+      },
+      "id": "node/5661003637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5661003638",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2018-06-08T09:38:10Z",
+        "@version": 3,
+        "@changeset": 59662878,
+        "@user": "bastek",
+        "@uid": 570112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4211534,
+          54.1573235
+        ]
+      },
+      "id": "node/5661003638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5723132791",
+        "denotation": "natural_monument",
+        "name": "głaz narzutowy",
+        "natural": "stone",
+        "@timestamp": "2018-06-27T13:01:12Z",
+        "@version": 1,
+        "@changeset": 60217341,
+        "@user": "Lesnik_pb",
+        "@uid": 8447714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3313224,
+          53.9290337
+        ]
+      },
+      "id": "node/5723132791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834179168",
+        "denotation": "natural_monument",
+        "genus": "Quercus",
+        "genus:en": "Oak",
+        "genus:pl": "Dąb",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Mikołaj",
+        "natural": "tree",
+        "start_date": "~1400",
+        "@timestamp": "2018-08-15T10:53:46Z",
+        "@version": 1,
+        "@changeset": 61682008,
+        "@user": "Marek-M",
+        "@uid": 598860
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6824757,
+          54.3566878
+        ]
+      },
+      "id": "node/5834179168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839546063",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "platan klonolistny",
+        "natural": "tree",
+        "@timestamp": "2018-08-18T09:03:50Z",
+        "@version": 1,
+        "@changeset": 61765205,
+        "@user": "bastek",
+        "@uid": 570112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4055341,
+          54.1640391
+        ]
+      },
+      "id": "node/5839546063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839999596",
+        "denotation": "natural_monument",
+        "natural": "tree",
+        "@timestamp": "2018-08-18T15:25:19Z",
+        "@version": 1,
+        "@changeset": 61773260,
+        "@user": "bastek",
+        "@uid": 570112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4067811,
+          54.1609087
+        ]
+      },
+      "id": "node/5839999596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187761217",
+        "denotation": "natural_monument",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "@timestamp": "2019-01-06T12:57:36Z",
+        "@version": 1,
+        "@changeset": 66069163,
+        "@user": "bastek",
+        "@uid": 570112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4088024,
+          54.1705258
+        ]
+      },
+      "id": "node/6187761217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6687585113",
+        "denotation": "natural_monument",
+        "name": "Mazurski Dąb Bartny",
+        "natural": "tree",
+        "protected": "yes",
+        "tourism": "attraction",
+        "@timestamp": "2019-08-09T12:21:17Z",
+        "@version": 2,
+        "@changeset": 73191262,
+        "@user": "Arnebius",
+        "@uid": 502270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4178279,
+          53.6862944
+        ]
+      },
+      "id": "node/6687585113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782776251",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Dąb \"Perkun\" - pomnik przyrody",
+        "natural": "tree",
+        "start_date": "1400r.",
+        "@timestamp": "2019-09-09T13:20:54Z",
+        "@version": 1,
+        "@changeset": 74263204,
+        "@user": "piotera",
+        "@uid": 1981939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0449032,
+          53.7366514
+        ]
+      },
+      "id": "node/6782776251"
+    }
+  ]
+}
